@@ -1,5 +1,0 @@
-﻿  DomZ6-3.cpp
-  Vector.cpp
-D:\Проги\DomZ6-3\DomZ6-3\Vector.cpp(10,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  DomZ6-3.vcxproj -> D:\Проги\DomZ6-3\x64\Debug\DomZ6-3.exe
