@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-babcfae9c18fe222b598.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtDz",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtDz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtDz-Debug-e80f38f5b44e2d988e32.json",
+					"name" : "QtDz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtDz_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtDz_autogen-Debug-2afcd427fc2ed627add7.json",
+					"name" : "QtDz_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtDz_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtDz_autogen_timestamp_deps-Debug-5f56684addf336ff4bff.json",
+					"name" : "QtDz_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u041f\u0440\u043e\u0433\u0438/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "D:/\u041f\u0440\u043e\u0433\u0438/QtDz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
