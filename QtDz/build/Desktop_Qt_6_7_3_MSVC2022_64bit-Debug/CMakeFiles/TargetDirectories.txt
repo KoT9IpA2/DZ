@@ -1,0 +1,8 @@
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/QtDz.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/QtDz_autogen_timestamp_deps.dir
+D:/Проги/QtDz/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/QtDz_autogen.dir
